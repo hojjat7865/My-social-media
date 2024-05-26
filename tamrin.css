@@ -1,0 +1,26 @@
+a {
+    color: rgb(238, 255, 0);
+    
+   
+}
+
+li{
+    list-style-position: inside;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: chartreuse;
+}
+h3{
+    color:rgb(243, 7, 7);
+}
+p{
+color: rgb(242, 246, 242);
+font-family: sans-serif;
+font-size: larger;
+}
+
+button{
+    -moz-column-rule-style: unset;
+}
+
